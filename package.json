@@ -1,0 +1,23 @@
+{
+  "name": "gh-lighthouse",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro",
+    "develop": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.3.2",
+    "query-string": "^6.1.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  },
+  "now": {
+    "alias": "lighthouse.now.sh",
+    "files": [
+      "src"
+    ]
+  }
+}
