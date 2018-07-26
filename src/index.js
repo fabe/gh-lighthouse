@@ -31,6 +31,8 @@ module.exports = (req, res) => {
   }
 
   res.setHeader('Content-Type', 'image/svg+xml');
+  res.setHeader('Cache-Control', 'public,s-maxage=3600');
+
   res.end(`${doctype}
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="888" height="${RADIUS *
       2 +
