@@ -13,6 +13,9 @@ https://lighthouse.now.sh/?perf=78&pwa=70&a11y=100&bp=13&seo=90
 ## Showcase
 
 - [fabe/gatsby-universal](https://github.com/fabe/gatsby-universal)
+- [kremalicious/portfolio](https://github.com/kremalicious/portfolio)
+- [mhjadav/mojaave](https://github.com/mhjadav/mojaave)
+- [xxczaki/kepinski.me](https://github.com/xxczaki/kepinski.me)
 
 *Feel free to PR your repository!*
 
